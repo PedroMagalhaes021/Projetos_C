@@ -3,16 +3,16 @@
 
 #define MAX 100
 
-struct Pessoa {
+typedef struct {
     int codigo;
     char nome[100];
     int idade;
     char telefone[20];
     char email[100];
-};
+} Pessoa;
 
 int main() {
-    struct Pessoa pessoas[MAX];
+    Pessoa pessoas[MAX];
 
     int quantidade = 0;
     int i;
