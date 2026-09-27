@@ -1,0 +1,23 @@
+Codigo: 367021
+Nome: mouse
+Categoria: hardware
+Quantidade: 5
+Preco: R$ 322.00
+
+Codigo: 536723
+Nome: teclados
+Categoria: hardware
+Quantidade: 5
+Preco: R$ 299.00
+
+Codigo: 5376382
+Nome: Monitor
+Categoria: eletrônico
+Quantidade: 3
+Preco: R$ 1.70
+
+Codigo: 124126
+Nome: Gabinete Gamer
+Categoria: PC
+Quantidade: 7
+Preco: R$ 122.00
